@@ -6,4 +6,5 @@
 
 步骤三：
     打包源码生成到dist目录   npm run release
+
     以dist目录起http-server服务  npm run server   
